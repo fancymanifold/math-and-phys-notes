@@ -73,6 +73,18 @@ Notes on various topics in *mathematics* and *theoretical physics*.
     - 5.3. Measure spaces
     - 5.4. Lebesgue measure
     - 5.5. Lebesgue integration
+6. Distributions
+    - 6.1. Test functions
+    - 6.2. Distributions
+    - 6.3. Operations on distributions
+    - 6.4. Change of variable in δ-function
+    - 6.5. Fourier transform
+    - 6.6. Green's function
+8. Exercises
+    - 8.1. Sets and mappings
+    - 8.2. Distributions
+    - 8.3. Fourier transforms
+    - 8.4. Green's function
 
 
 ## Mathematics (misc.)
