@@ -87,17 +87,5 @@ Notes on various topics in *mathematics* and *theoretical physics*.
     - 8.4. Green's function
 
 
-## Mathematics (misc.)
-
-**Table of contents**:
-
-1. Basic maths (logarithms, trigonometry, sequences, basic analysis)
-2. Linear algebra (linear transformations, determinant, 4 fundamental subspaces)
-3. Real infinite series (convergence and convergence tests)
-4. Tensor fields on manifolds (vector fields; exterior, interior, and Lie derivatives; pullback and pushforward)
-5. Geometry of k-vectors and k-forms
-6. Hodge dual
-
-
 ## To be continued... or not ( ͡° ͜ʖ ͡°)
 
